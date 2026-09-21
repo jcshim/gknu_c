@@ -3,6 +3,6 @@
 - 공대 1호관 406호
 - 상담: 월요일 수업 전후
 - 전화번호: 010-9770-5645
-
+![심재창교수 사진](https://raw.githubusercontent.com/jcshim/img/refs/heads/main/jcshim.jpg)
    
 경국대학교 1학년 2학기 심화 C언어
